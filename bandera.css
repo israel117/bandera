@@ -1,0 +1,31 @@
+#encabezado{
+background-color:blue;
+text-align:center;
+color:white;
+height: 400px;
+width: 100px;
+}
+#amarillo{
+float:left;
+background:yellow;
+margin: -800px 100px;
+height: 370px;
+width: 1300px;
+color:black;
+}
+#azul{
+float:left;
+background:blue;
+margin: -500px 100px;
+height: 250px;
+width: 1300px;
+color:black;
+}
+#rojo{
+float:left;
+background:red;
+margin: -300px 100px;
+height: 150px;
+width: 1300px;
+color:black;
+}
